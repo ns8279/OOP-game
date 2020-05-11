@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Game using OOP",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ns8279/OOP-game.git"
+  },
+  "author": "Nirupama Sundararaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ns8279/OOP-game/issues"
+  },
+  "homepage": "https://github.com/ns8279/OOP-game#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
