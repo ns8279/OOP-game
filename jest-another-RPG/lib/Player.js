@@ -8,6 +8,7 @@ function Player (name = '') {
     this.agility = Math.floor(Math.random() * 5 + 7);
 
     this.inventory = [new Potion('health'), new Potion()];
+    console.log(this.inventory);
 }
 
 //Method to getstats()
