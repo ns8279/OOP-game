@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ns8279/OOP-game#readme",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
   }
 }
